@@ -18,14 +18,5 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-<distributionManagement>
-    <repository>
-        <id>releases</id>
-        <url>https://github.com/Vaishnavi-D-R/maven-samples/</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <url>https://github.com/Vaishnavi-D-R/maven-samples/</url>
-    </snapshotRepository>
-</distributionManagement>
+
 </project>
